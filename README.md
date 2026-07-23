@@ -1,9 +1,9 @@
 # blog
-Goals for my Github and studies
+The goal here is to have a Project / Lab / Post in the Cybersecurity Repo every week.
 
-The goal here is one type (DFIR, blue-team, red-team) every other week as I need to balance this with my computer science and certification studies. 
+Each project will have a README that will list all of the details pertaining to the project. 
 
-Each README will list all of the details pertaining to the project. 
+This current repo will just have this README that will list my progress and goals.
 
 For now, here are my general goals:
 - [x] Security+
