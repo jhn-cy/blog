@@ -1,4 +1,4 @@
-# blog
+# Blog
 The goal here is to have a Project / Lab / Post in the Cybersecurity Repo every week.
 
 Each project will have a README that will list all of the details pertaining to the project. 
